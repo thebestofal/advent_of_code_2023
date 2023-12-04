@@ -22,4 +22,6 @@ Each day will be in separate directory with 3 files:
 |-----|--------------------------------------------------------------------|---------------------------------------------------------------------------|------------------|
 | 1   | [Trebuchet?!](https://adventofcode.com/2023/day/1)         :santa: | [Day1](https://github.com/thebestofal/advent_of_code_2023/tree/main/day1) | :star: :star:    |
 | 2   | [Cube Conundrum](https://adventofcode.com/2023/day/2)      :santa: | [Day2](https://github.com/thebestofal/advent_of_code_2023/tree/main/day2) | :star: :star:    |
+| 3   | [Gear Ratios](https://adventofcode.com/2023/day/3)                 
+| 4   | [Scratchcards](https://adventofcode.com/2023/day/4) :santa:        |[Day4](https://github.com/thebestofal/advent_of_code_2023/tree/main/day4)| :star: :star:  |
 
