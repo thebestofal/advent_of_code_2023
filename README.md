@@ -18,10 +18,12 @@ Each day will be in separate directory with 3 files:
 - part2.py - file with solution to second part of the task
 
 ## Challanges
-| Day | Challange                                                          | Solution                                                                  | Stars            |
-|-----|--------------------------------------------------------------------|---------------------------------------------------------------------------|------------------|
-| 1   | [Trebuchet?!](https://adventofcode.com/2023/day/1)         :santa: | [Day1](https://github.com/thebestofal/advent_of_code_2023/tree/main/day1) | :star: :star:    |
-| 2   | [Cube Conundrum](https://adventofcode.com/2023/day/2)      :santa: | [Day2](https://github.com/thebestofal/advent_of_code_2023/tree/main/day2) | :star: :star:    |
-| 3   | [Gear Ratios](https://adventofcode.com/2023/day/3)       |          
-| 4   | [Scratchcards](https://adventofcode.com/2023/day/4) :santa:        |[Day4](https://github.com/thebestofal/advent_of_code_2023/tree/main/day4)| :star: :star:  |
+| Day | Challange                                                              | Solution                                                                  | Stars         |
+|-----|------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------|
+| 1   | [Trebuchet?!](https://adventofcode.com/2023/day/1)         :santa:     | [Day1](https://github.com/thebestofal/advent_of_code_2023/tree/main/day1) | :star: :star: |
+| 2   | [Cube Conundrum](https://adventofcode.com/2023/day/2)      :santa:     | [Day2](https://github.com/thebestofal/advent_of_code_2023/tree/main/day2) | :star: :star: |
+| 3   | [Gear Ratios](https://adventofcode.com/2023/day/3)                     |          
+| 4   | [Scratchcards](https://adventofcode.com/2023/day/4) :santa:            | [Day4](https://github.com/thebestofal/advent_of_code_2023/tree/main/day4) | :star: :star: |
+| 5   | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) |                                                                           |               |
+| 6   | [Wait For It](https://adventofcode.com/2023/day/6)  :santa:            | [Day6](https://github.com/thebestofal/advent_of_code_2023/tree/main/day6) | :star: :star: | 
 
