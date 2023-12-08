@@ -26,4 +26,6 @@ Each day will be in separate directory with 3 files:
 | 4   | [Scratchcards](https://adventofcode.com/2023/day/4) :santa:            | [Day4](https://github.com/thebestofal/advent_of_code_2023/tree/main/day4) | :star: :star: |
 | 5   | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) |                                                                           |               |
 | 6   | [Wait For It](https://adventofcode.com/2023/day/6)  :santa:            | [Day6](https://github.com/thebestofal/advent_of_code_2023/tree/main/day6) | :star: :star: | 
+| 7   | [Camel Cards](https://adventofcode.com/2023/day/7)  :santa:            | [Day7](https://github.com/thebestofal/advent_of_code_2023/tree/main/day7) | :star:        | 
+
 
